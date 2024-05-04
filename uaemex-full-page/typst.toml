@@ -1,0 +1,15 @@
+[package]
+name = "uaemex-full-page"
+version = "0.1.0"
+entrypoint = "lib.typ"
+repository = "https://github.com/UriMtzF/typst-templates"
+authors = ["UriMtzF <https://github.com/UriMtzF>"]
+license = "MIT-0"
+description = "A full page template for UAEMéx documents"
+keywords = ["UAEMéx"]
+categories = ["paper"]
+
+[template]
+path = "template"
+entrypoint = "main.typ"
+thumbnail = "thumbnail.png"
